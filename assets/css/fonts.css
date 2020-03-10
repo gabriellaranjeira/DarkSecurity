@@ -1,0 +1,21 @@
+/*Fonts*/
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900); /*Maven Pro*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700); /* 'Open Sans' */
+@font-face {
+    font-family: "NewsGoth BdXCn BT";
+    src: url('../fonts/ng/News-Gothic-Bold-Extra-Condensed-BT.eot');
+    src: url('../fonts/ng/News-Gothic-Bold-Extra-Condensed-BT.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ng/News-Gothic-Bold-Extra-Condensed-BT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+} /*News Gothic*/
+@font-face {
+    font-family: "Segoe WP";
+    src: url('../fonts/segoewp/SegoeWP.eot');
+    src: url('../fonts/segoewp/SegoeWP.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/segoewp/SegoeWP.svg#Segoe WP') format('svg'),
+    url('../fonts/segoewp/SegoeWP.woff') format('woff'),
+    url('../fonts/segoewp/SegoeWP.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+} /*Segoe WP*/

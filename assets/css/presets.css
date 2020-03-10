@@ -1,0 +1,30 @@
+/*Color List*/
+/* 
+ * Gray: #4c4f53;
+ * Dark Gray: #1d1e20;
+ * White: #FFF;
+ * Red: #e74440;
+ * Dark Red: #c33835;
+ * Chocolate: #4d3726;
+ * Gold: #ffd800;
+ *
+ */
+*{position:relative;margin:0;padding:0;font-family: "Segoe WP";}
+body{background:#eeefe8;}
+a:focus{outline:none !important;}
+a,a:hover,a:focus{text-decoration:none;}
+h1,h2,h3,h4,h5,h6,h1>span,h2>span,h3>span,h4>span,h5>span,h6>span,h1>a,h2>a,h3>a,h4>a,h5>a,h6>a,.h1,.h2,.h3,.h4,.h5,.h6{margin:0;line-height:1;font-family:"NewsGoth BdXCn BT";}
+h1 small, .h1 small, h2 small, .h2 small, h3 small, .h3 small, h1 .small, .h1 .small, h2 .small, .h2 .small, h3 .small, .h3 .small{font-size:10px;}
+.row{margin:0;}
+.container{padding:0;max-width:1060px;color:#545347;}
+.dropdown:hover .dropdown-menu{display: block;}
+.fixed_width{width: 960px;margin: 0 auto;}
+.col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,
+.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12,
+.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12,
+.col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{padding:0;margin:0;}
+
+.right{float:right;}
+.left{float:left;}
+
+.gold_bg{background:url("../images/gold_pattern.png") repeat scroll 0 0 #ffd800;}

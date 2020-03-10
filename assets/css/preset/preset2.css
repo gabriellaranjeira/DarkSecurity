@@ -1,0 +1,102 @@
+/* Color Code : #1abc9c */
+
+/** Logo **/
+#main_navigation .navbar-header .logo h1 span {color: #1abc9c;}
+#main_navigation #main_nav ul.navbar-nav li a:hover, #main_navigation #main_nav ul.navbar-nav li.active a {border-top: 5px solid #1abc9c;}
+#main_navigation #main_nav ul.navbar-nav li ul li.active a, #main_navigation #main_nav ul.navbar-nav li ul li a:hover, #main_navigation #main_nav ul.navbar-nav li ul li a:focus {border-left: 5px solid #1abc9c;}
+
+/** Menu **/
+header #social_nav ul {background: #1abc9c;}
+header #social_nav ul li a {color: #1abc9c;}
+header #social_nav ul li {border-right: 1px solid #1abc9c;}
+#main_nav2 ul li.dropdown > ul li:hover {border-color: #1abc9c;}
+#main_navigation2:after {background: url("../../images/afterNav2.png") repeat-x scroll -50px bottom;}
+
+/** Search **/
+header #social_nav ul li form .input-group {background: url("../../images/search_bg2.png") no-repeat scroll 0 0;}
+
+/** Slider **/
+.slider_common_p {border-left: 4px solid #1abc9c;}
+#rv_slider .tp-bullets.tp-thumbs .bullet img {border: 3px solid #1abc9c;}
+#rv_slider .tp-leftarrow.default i, #rv_slider .tp-rightarrow.default i {color: #1abc9c;}
+
+/** Carousel **/
+#multitem_carousal h2 {color: #1abc9c;}
+#multitem_carousal #second_slider .item:hover img {border: 5px solid #1abc9c;}
+
+/** Story of the in homepage **/
+.post_category_post_icon ul>li>a {background: #1abc9c;}
+#story_of_day .top_stories .col-sm-5:first-child .post_desc {border-top: 5px solid #1abc9c;}
+#story_of_day .top_stories .col-sm-3 .post_title {border-left: 4px solid #1abc9c;}
+#story_of_day .top_featured_story .blog_feature_img_cat .post_title {border-left: 4px solid #1abc9c;}
+#our_services .container .service_container {background: url("../images/red_pattern.png") repeat scroll 0 0 #1abc9c;}
+#download_text h1 span {color: #1abc9c;}
+#download_text a {background: none repeat scroll 0 0 #1abc9c;}
+.post_date_post_icon ul>li>a {background: #1abc9c;}
+.post_category_post_icon ul>li>a {background: #1abc9c;}
+#index_blogs .more_story_link {background: #1abc9c;}
+#index_blogs .top_blog_desc_part {border-left: 4px solid #1abc9c;}
+#index_blogs .top_blog_desc_part ul li a:hover {background: #1abc9c;}
+#index_blogs .index_widget .widget_heading {border-left: 4px solid #1abc9c;}
+#index_blogs .index_widget .index_hottest_news_widget .media-list .media .likes i {color: #1abc9c;}
+#index_blogs .index_widget .widget_heading {border-left: 4px solid #1abc9c;}
+
+/** Home Two **/
+#nr_services .img-circle i {color: #1abc9c;}
+#our_app_container a i {color: #1abc9c;}
+#our_app_container a {background: url("../../images/download_btn2.png") no-repeat scroll center center;}
+
+/** About US page **/
+.breadcumb_row ol li a {color: #1abc9c;}
+
+/** Price Page **/
+.pricing_plans .plan_col:nth-child(2) .plan_details .price .circle {border: 4px solid #1abc9c;}
+.pricing_plans .plan_col:nth-child(2) .get_plan a {background: #1abc9c;}
+.pricing_plans .plan_col:nth-child(2) .get_plan a:hover {color: #1abc9c;}
+
+/** FAQ PAGE **/
+.widget .widget_heading {border-bottom: 4px solid #1abc9c;}
+.hottest_news .post_meta i {color: #1abc9c;}
+.faq_contact_tab ul.faqContactTab li.active a {background: none #1abc9c;}
+.faq_contact_tab .tab-content .tab-pane ul.mails li:after {color: #1abc9c;}
+
+/** Blog **/
+.blog .featured_blog .blog_title {border-left: 4px solid #1abc9c;}
+.blog .featured_blog .feature_img_title {border-bottom: 5px solid #1abc9c;}
+.post_meta_summery>.row.post_meta>.date.left a i {color: #1abc9c;}
+.single_blog_summery #blog_gallery {border-top: 5px solid #1abc9c;}
+.single_blog_summery.blog_style_3 .post_meta {border-top: 5px solid #1abc9c;}
+.recent_coments_ppNews_Tab ul#tabbed_widget li.active a {background: #1abc9c;}
+.subscribe_widget .count_row ul li a {background: none repeat scroll 0 0 #1abc9c;}
+.post_meta_summery>.row.post_meta>.like.left a i,
+.post_meta_summery>.row.post_meta>.comment.left a i {color: #1abc9c;}
+.single_blog_summery #blog_gallery .carousel-indicators li.active:after {border-top: 10px solid #1abc9c;}
+body.single .single_item .post_summery a {color: #1abc9c;}
+body.single #coment_tab li.active a {background: #1abc9c;}
+.form_row form .form-control.required {border-left: 4px solid #1abc9c;}
+.form_row form input[type="submit"] {background: #1abc9c;}
+.form_row form input[type="checkbox"]+label:before {background: #1abc9c;}
+.insta_grids .inst-image .inst-hover {border-bottom: 4px solid #1abc9c;}
+
+/** Portfolio **/
+.portfolios ul#protfolio_tab li.active, .portfolios ul#protfolio_tab li:hover {background: #1abc9c;}
+.portfolios .load_more_btn a {background: #1abc9c;}
+.portfolioModal a {color: #1abc9c;}
+
+/** Contact **/
+.contact_tabs .nav-tabs>li.active>a, .contact_tabs .nav-tabs>li.active>a:hover, .contact_tabs .nav-tabs>li.active>a:focus {
+background: #1abc9c;}
+.contact_tabs ul li.active a, .contact_tabs ul li a:hover {background: #1abc9c;}
+.contact_tabs #mail_form form .form-control.required {border-left: 4px solid #1abc9c;}
+.contact_tabs #mail_form form input[type="submit"] {background: #1abc9c;}
+.contact_tabs #mail_form form input[type="checkbox"]+label:before {background: #1abc9c;}
+
+/** Footer menu **/
+#foot_navigation #foot_nav .active a, #foot_navigation #foot_nav li a:hover, #foot_navigation #foot_nav li a:focus {border-bottom: 5px solid #1abc9c;}
+#foot_navigation #foot_nav li:last-child a {color: #1abc9c;}
+#foot_copy {border-top: 5px solid #1abc9c;}
+#foot_copy ul li a {background: none repeat scroll 0 0 #1abc9c;}
+/************ Back To Top ************/
+#back_to_top {
+    color: #1abc9c;
+}

@@ -1,0 +1,69 @@
+/*******************************************************************************
+Tamplate Name : Metro Boom
+Template Version: 1.0.1
+Template Author: Lcesoft
+Template Author url: http://lcesoft.com
+*******************************************************************************/
+
+/*******************************************************************************
+[Tabele Of Contents]
+    1. Body
+        1. Themes Panel /#themes_panel
+        2. Header / #site_header
+		3. Social Icon/ #social_nav
+		4. Nav Menu /.main_menu
+		5. Logo /.logo
+		6. Content Section /#main_content_holder
+			1. Slider /#rv_slider
+			2. Carousel /#multitem_carousal
+			3. Story Of The Section /#story_of_day
+			4. Service Section /#our_services
+			5. Blog Section /#index_blogs
+				1. Left Content /.index_blogs
+				2. Sidebar section /.single_blog_media
+			6. Footer
+*******************************************************************************/
+
+/******************************************************************************
+# [Color codes]
+
+Background:	#eeefe8
+Body font color: #333333
+Paragraph Font Color: #6f7277
+Footer:		#ffffff
+Button Color: #e74440, #000000;
+a (standard):	#60636a
+a (hover):	#e74440
+a (active):	#ffffff
+
+# *****************************************************************************/
+
+/******************************************************************************
+[Typography]
+
+Body Font Family: 'Segoe WP';
+Body Font Size: 14px;
+Line Height: 1.42857;
+Post Title Font Family: 'NewsGoth BdXCn BT';
+Post Title Font Size: 20px;
+Input, textarea: 'Segoe WP';
+Input, textarea(Font Color): #5e5951;
+Input, textarea(Font Size): 15px;
+
+******************************************************************************/
+
+/*Import CSS*/
+@import url("assets/css/bootstrap.min.css");
+@import url("assets/css/bootstrap-theme.min.css");
+@import url("assets/owl-carousel/owl.carousel.css");
+@import url("assets/owl-carousel/owl.theme.css");
+@import url("assets/owl-carousel/owl.transitions.css");
+@import url("http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+@import url("assets/css/fonts.css");
+@import url("assets/css/presets.css");
+@import url("assets/css/progress.css");
+@import url("assets/css/limon.css");
+@import url("assets/css/style.css");
+@import url("assets/css/custom.css");
+@import url("assets/css/responsive.css");
+@import url("assets/css/custom-responsive.css");

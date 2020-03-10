@@ -1,0 +1,264 @@
+#rv_slider2{
+    width: 100%;
+    margin: 0 auto;
+    height: 397px;
+    position: relative;
+    margin-top: -20px;
+}
+#rv_slider2 .tp-leftarrow.default, #rv_slider2 .tp-rightarrow.default{
+    background: rgba(255, 255, 255, .7) !important;
+    width: 60px !important;
+    height: 100px !important;
+}
+#rv_slider2 .tp-leftarrow.default i, #rv_slider2 .tp-rightarrow.default i{
+    color: #3d393b;
+    font-size: 32px;
+    font-weight: bolder;
+    margin-top: 33px;
+    opacity: .6;
+}
+#rv_slider2 .tp-bullets.simplebullets.round .bullet {
+  background: url(../images/indicator.png) no-repeat center center !Important;
+  border: none !important;
+  cursor: pointer;
+  float: left;
+  height: 13px;
+  margin-left: 3px;
+  margin-right: 0;
+  margin-top: 0;
+  position: relative;
+  width: 13px;
+}
+#rv_slider2 .tp-bullets.simplebullets.round .bullet.selected{
+    background: url(../images/indicator-active.png) no-repeat center center !Important;
+    height: 23px;
+    width: 19px;
+    margin-top: -5px;
+}
+#rv_slider2 .tp-bullets{
+    bottom: 10px !important;
+}
+
+header #social_nav ul li form .input-group input, header #social_nav ul li form .input-group input{
+    font-size: 15px;
+    color: #5e5951;
+}
+
+/********************************* Theme Panel *********************************************/
+#themes_panel {
+	position:fixed;
+	top:150px;
+	z-index:999999;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	opacity:1;
+	height: 50px;
+	margin-left: -254px;
+}
+
+#themes_panel ul, #themes_panel ol {
+	padding:0;
+}
+
+#themes_panel h1,#themes_panel  h2,#themes_panel  h3, #themes_panel h4,#themes_panel  h5,#themes_panel  h6 {
+	color:#e8e8e8;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	text-transform:none;
+	font-size:14px;
+	margin-bottom:7px;
+	letter-spacing:-1px;
+	margin-top: 0px;
+}
+#themes_menu {
+	background: none repeat scroll 0 0 #ffffff;
+        border: 10px solid #cccccc;
+        box-shadow: 0 5px 30px -6px rgba(0, 0, 0, 0.3);
+        color: #444;
+        float: left;
+        width: 254px;
+}
+#themes_menu .segment {
+	padding:10px;
+	margin-bottom:10px;
+	overflow:hidden;
+	border-bottom:1px solid #222222;
+        text-align: center;
+}
+#themes_menu h4 {
+    background: none repeat scroll 0 0 #333333;
+    color: #ffffff;
+    font-family: "NewsGoth BdXCn BT";
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    line-height: 1;
+    margin: 0;
+    padding: 11px 0;
+    text-transform: uppercase;
+
+}
+#themes_menu .segment.noborder {
+	border:none;
+}
+.segment h5.seg_header{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #555555 -moz-use-text-color;
+    border-image: none;
+    border-style: solid none;
+    border-width: 1px medium;
+    color: #555555 !important;
+    font-family: "NewsGoth BdXCn BT" !important;
+    font-size: 18px !important;
+    font-weight: normal !important;
+    letter-spacing: 0.02em !important;
+    line-height: 1;
+    margin: 10px auto 20px !important;
+    padding: 7px 0;
+    text-align: center;
+    text-transform: uppercase !important;
+    width: 90%;
+}
+.segment h5.themepanelh5{
+    margin-top: 25px !important;
+}
+.segment .select_div{
+    width: 67%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.segment .select_div a{
+    background: none repeat scroll 0 0 #f1f1f1;
+    color: #333333;
+    display: inline-block;
+    font-family: "NewsGoth BdXCn BT" !important;
+    font-size: 14px;
+    font-weight: normal;
+    height: 40px;
+    letter-spacing: 0.01em;
+    margin-right: 10px;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 50px;
+
+}
+.segment .select_div a.wi{
+    width: 65px;
+}
+.segment .select_div a:last-child{
+    margin-right: 0px;
+}
+#themes_menu ul.theme {
+	display: inline-block;
+        float: none !important;
+        margin: 0 auto !important;
+        text-align: center;
+        width: 50%;
+}
+#themes_menu ul.theme li {
+	float:left;
+	list-style: none;
+}
+#themes_menu ul.theme li a {
+	border: medium none;
+        box-shadow: none;
+        display: inline-block;
+        height: 30px;
+        line-height: 0;
+        margin: 0 5px 5px 0;
+        text-decoration: none;
+        width: 30px;
+}
+
+#themes_menu .cookie_layout_style li a,.bg-color-box li a{width:21px;
+    height:21px;}
+#themes_menu ul.theme li a:hover {
+	text-decoration:none;
+}
+#themes_menu label {
+	display:inline-block;
+	font-weight:bold;
+	min-width:50px;
+}
+#themes_panel select {
+	background-color: #f9f9f9;
+        color: #555;
+        display: inline-block;
+        margin: 5px 0;
+        background: none;
+        color: #ffffff;
+        font-size: 13px;
+        width: 96%;
+        padding: 4px ;
+}
+#toggle_button {
+	margin:12px 0 0 -2px;
+	padding:0px;
+	float:right;
+	width:40px;
+	height:40px;
+	background: url("../images/themes_panel.png") no-repeat center center;
+	-moz-border-top-right-radius:2px;
+	border-top-right-radius:2px;
+	-moz-border-bottom-right-radius:2px;
+	border-bottom-right-radius:2px;
+	box-shadow:1px 1px 2px rgba(0, 0, 0, .1);
+}
+#toggle_button a {
+	display:block;
+	padding:14px 0px;
+}
+.reset, .panel_btn {
+	display: inline-block;
+	margin: 10px 10px 10px 0;
+	padding: 7px 10px;
+	background: #414141;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+	-webkit-font-smoothing: antialiased;
+	transition: all 0.1s ease;
+	-moz-transition: all 0.1s ease;
+	-webkit-transition: all 0.1s ease;
+	-o-transition: all 0.1s ease;
+	border-radius:2px;	
+}
+
+.reset:hover, 
+.reset:focus,
+.panel_btn:hover, 
+.panel_btn:focus {
+	background: #333333;
+	color: #ffffff;
+	transition: all 0.1s ease;
+	-moz-transition: all 0.1s ease;
+	-webkit-transition: all 0.1s ease;
+	-o-transition: all 0.1s ease;
+	
+}
+
+.panel_btn {
+	padding:10px 7px;
+	font-size:10px;
+	color:#fff;
+}
+
+.cookie_font li{
+	width:50%;
+}
+select#layout-switcher{width: 100%;padding: 5px;}
+
+.preset1{background: #e74440;}
+.preset2{background: #1abc9c;}
+.preset3{background: #2ecc71;}
+.preset4{background: #f1c40f;}
+.preset5{background: #9b59b6;}
+.preset6{background: #3498db;}
+
+/********************************* End Theme Panel *****************************************/

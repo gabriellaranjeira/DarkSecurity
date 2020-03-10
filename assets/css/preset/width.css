@@ -1,0 +1,8 @@
+section#main_content_holder{
+    width: 100% !important;
+    position: relative;
+}
+header#site_header{
+    width: 100% !important;
+    position: relative;
+}
